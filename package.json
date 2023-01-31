@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-express-app",
+  "version": "1.0.0",
+  "description": "Nodejs Express Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abraham Choi",
+  "license": "ISC"
+}
